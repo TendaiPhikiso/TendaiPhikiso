@@ -7,11 +7,11 @@ I'm Tendai & I study Computer Science @ UEA🌱 🌱
 
 
 <a href="https://github.com/HarryYelland/ProActive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryYelland&repo=ProActive&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryYelland&repo=ProActive&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30" />
 </a>
 
 <a href="https://github.com/TendaiPhikiso/JavaInventoryProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TendaiPhikiso&repo=JavaInventoryProject&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TendaiPhikiso&repo=JavaInventoryProject&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30" />
 </a>
 
 <!--

@@ -2,7 +2,7 @@
 I'm Tendai & I study Computer Science @ UEA🌱 🌱 
 ## Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TendaiPhikiso&show_icons=true&theme=vue-dark&line_height=33&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendaiPhikiso&theme=graywhite&&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendaiPhikiso&theme=vue-dark&&langs_count=4)
 
 
 

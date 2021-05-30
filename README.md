@@ -14,13 +14,6 @@ I'm Tendai & I study Computer Science @ UEA🌱 🌱
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TendaiPhikiso&repo=JavaInventoryProject&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=10" />
 </a>
 
-
-<a href="https://github.com/TendaiPhikiso/climateWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TendaiPhikiso&repo=climateWebsite&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=10" />
-</a>
-
-
-
 <!--
 **TendaiPhikiso/TendaiPhikiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

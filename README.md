@@ -1,8 +1,12 @@
 ### Hi there 👋
 I'm Tendai & I study Computer Science @ UEA🌱 🌱 
 ## Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TendaiPhikiso&show_icons=true&theme=react&line_height=33&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendaiPhikiso&theme=react&&langs_count=4)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TendaiPhikiso&show_icons=true&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30&line_height=33&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendaiPhikiso&bg_color=845EC2,D65DB1,FF6F91,FF9671&border_radius=30&text_color=ffffff&title_color=ffffff&&langs_count=4)
+
+
+
 
 
 

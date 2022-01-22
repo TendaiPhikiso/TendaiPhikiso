@@ -1,6 +1,6 @@
 <h3 align="Center"> Hi there 👋 </h>
 
-<p align="center"> I'm Tendai & I aspiring Data Scientist🌱 🌱 </p>
+<p align="center"> I'm Tendai & I am an aspiring Data Scientist🌱 🌱 </p>
 <p align="center"> 📫 How to reach me: tphikiso@gmail.com </p>
 
 <p align="center"><a href="https://github.com/TendaiPhikiso/TendaiPhikiso/blob/main/imageGif.gif" target="_blank"> <img src="https://github.com/TendaiPhikiso/TendaiPhikiso/blob/main/imageGif.gif"alt="css3" width="400" /> </a> 

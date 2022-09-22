@@ -19,20 +19,22 @@
   
 ## Statistics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TendaiPhikiso&show_icons=true&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30&line_height=33&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TendaiPhikiso&bg_color=845EC2,D65DB1,FF6F91,FF9671&border_radius=30&text_color=ffffff&title_color=ffffff&&langs_count=4)
+<img align="left" width=190px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+ <!-- Top Lang --> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TendaiPhikiso&bg_color=845EC2,D65DB1,FF6F91,FF9671&border_radius=30&text_color=ffffff&title_color=ffffff&&langs_count=4" alt="TendaiPhikiso" /> </p>
+
+<img align="left" width=190px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TendaiPhikiso&show_icons=true&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30&line_height=33&count_private=true" alt="TendaiPhikiso" /> </p>
+ 
+   <a href="https://github.com/TendaiPhikiso"><img alt="Tendai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TendaiPhikiso&custom_title=Tendai's%20Contribution%20Graph&bg_color=845EC2,D65DB1,FF6F91,FF9671" /></a>
+  <br/>
+
+
+
 
   
-<a href="https://github.com/HarryYelland/ProActive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryYelland&repo=ProActive&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30" />
-</a>
-  
-  <a href="https://github.com/TendaiPhikiso/JavaInventoryProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TendaiPhikiso&repo=JavaInventoryProject&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30" />
-</a>
-
-
-
 <!--
 **TendaiPhikiso/TendaiPhikiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,4 +50,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/TendaiPhikiso/TendaiPhikiso/blob/main/Folder/intellij-idea-ue-icon.png" alt="xd" width="70" height="70"/></a>
+
+
+<a href="https://github.com/HarryYelland/ProActive">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryYelland&repo=ProActive&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30" />
+</a>
+  
+  <a href="https://github.com/TendaiPhikiso/JavaInventoryProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TendaiPhikiso&repo=JavaInventoryProject&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30" />
+</a>
+
 -->

@@ -27,8 +27,8 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TendaiPhikiso&show_icons=true&bg_color=845EC2,D65DB1,FF6F91,FF9671&text_color=ffffff&title_color=ffffff&icon_color=FFFFFF&border_radius=30&line_height=33&count_private=true" alt="TendaiPhikiso" /> </p> 
  
 
-<!--    <a href="https://github.com/TendaiPhikiso"><img alt="Tendai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TendaiPhikiso&custom_title=Tendai's%20Contribution%20Graph&bg_color=845EC2,D65DB1,FF6F91,FF9671" /></a>
-  <br/> -->
+  <a href="https://github.com/TendaiPhikiso"><img alt="Tendai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TendaiPhikiso&custom_title=Tendai's%20Contribution%20Graph&bg_color=845EC2,D65DB1,FF6F91,FF9671" /></a>
+  <br/> 
 
 
 

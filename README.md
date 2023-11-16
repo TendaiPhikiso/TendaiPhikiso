@@ -5,6 +5,9 @@
 </div>
 
 ###
+ <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently learning: React for web & React Native for mobile development. <br></p>
+
+###
 
 <h2 align="left">💗TECH STACK💗</h2>
 

@@ -5,11 +5,11 @@
 </div>
 
 ###
- <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently learning: React for web & React Native for mobile development. <br></p>
+ <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently learning: React for web development and R for Data Analysis <br></p>
 
 ###
 
-<h2 align="left">💗TECH STACK💗</h2>
+<h2 align="left">💗TECH STACK FRONTEND💗</h2>
 
 ###
 
@@ -33,10 +33,32 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
+<!--   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" alt="r logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" alt="r logo"  /> -->
+</div>
+
+###
+
+<h2 align="left">💗TECH STACK DATA ANALYTICS💗</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=black&style=for-the-badge" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
 </div>
 
 ###

@@ -5,7 +5,7 @@
 </div>
 
 ###
- <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently learning: React for web development and SQL for Data Analysis <br></p>
+ <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently working on: Data Analytics project.. <br></p>
 
 ###
 

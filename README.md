@@ -5,7 +5,7 @@
 </div>
 
 ###
- <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently enhancing my data analytics skills in SQL,Tableau,Power BI,Excel & Python, and exploring additional tools  ➡️ Google Analytics <br></p>
+ <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently enhancing my data analytics skills in SQL,Tableau,Power BI,Excel,Python, and exploring additional tools  ➡️ Google Analytics <br></p>
 
 ###
 

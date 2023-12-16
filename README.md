@@ -9,7 +9,7 @@
 
 ###
 
-## 📊 Projects 📈
+## 📊 Projects - Data Analytics and visualization 📈
 
 ### SQL
 

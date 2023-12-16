@@ -9,6 +9,42 @@
 
 ###
 
+## 📊 Projects 📈
+
+### SQL
+
+<details>
+<summary>
+Click to view projects
+</summary>
+  
+* [Nashville Housing - Data Cleaning](https://github.com/TendaiPhikiso/DataCleaning)
+* [Covid-19 Analysis - Data Exploration](https://github.com/TendaiPhikiso/CovidDataAnalysis)
+</details>
+
+### Tableau
+
+<details>
+<summary>
+Click to view projects
+</summary>
+  
+* [Covid-19 - Visualisation](https://github.com/TendaiPhikiso/CovidDataAnalysis)
+</details>
+
+### Power BI
+
+<details>
+<summary>
+Click to view projects
+</summary>
+  
+* [Data Professional Survey ](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI)
+</details>
+
+
+
+###
 <h2 align="left">💗TECH STACK DATA ANALYTICS💗</h2>
 
 <div align="left">

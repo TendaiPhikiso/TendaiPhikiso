@@ -18,7 +18,7 @@
 Click to view projects
 </summary>
   
-* [Flipkart Ecommerce Product Dataset - Data Quality Assessment](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/edit/main/README.md)
+* [Flipkart Ecommerce Product Dataset - Data Quality Assessment](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/tree/main)
 </details>
 
 ### SQL

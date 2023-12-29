@@ -11,6 +11,16 @@
 
 ## 📊 Projects - Data Analytics and visualization 📈
 
+### Excel
+
+<details>
+<summary>
+Click to view projects
+</summary>
+  
+* [Flipkart Ecommerce Product Dataset - Data Quality Assessment](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/edit/main/README.md)
+</details>
+
 ### SQL
 
 <details>

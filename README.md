@@ -20,6 +20,7 @@ Click to view projects
   
 * [Flipkart Ecommerce Product Dataset - Data Quality Assessment](https://github.com/TendaiPhikiso/Flipkart_EcommerceProduct_Dataset/tree/main)
 * [Flipkart Ecommerce Product Dataset - Data Cleaning](https://github.com/TendaiPhikiso/Flipkart-Data-Cleaning)
+* [Flipkart Ecommerce Product Dataset - Data Findings](https://github.com/TendaiPhikiso/Flipkart-Dataset-Findings)
 </details>
 
 ### SQL

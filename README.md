@@ -5,8 +5,14 @@
 </div>
 
 ###
- <p align="left">✨ Creating bugs since 2018! </p>
 
+
+###
+
+## 📜 Recent Articles 
+
+- #### Requirement Gathering as a Data Analyst: [Click to read article](https://www.linkedin.com/pulse/requirement-gathering-data-analyst-tendai-phikiso-t4d9e%3FtrackingId=Ma80PcrXRfmtbmXN%252FpXXPw%253D%253D/?trackingId=Ma80PcrXRfmtbmXN%2FpXXPw%3D%3D)
+  
 ###
 
 ## 📊 Projects - Data Analytics and visualization 📈

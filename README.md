@@ -10,8 +10,9 @@
 ###
 
 ## 📜 Recent Articles 
+<br>
 
-### Requirement Gathering as a Data Analyst: <a><img align="left" src="https://github.com/TendaiPhikiso/TendaiPhikiso/blob/main/Folder/19198014%201.png"></a>
+### Requirement Gathering as a Data Analyst: <a><img align="left" width="450" height="400" src="https://github.com/TendaiPhikiso/TendaiPhikiso/blob/main/Folder/19198014%201.png"></a>
 <hr style="border:2px solid black">
 <p>
   At the outset of a new project, there's often an eagerness to dive in and start the hands-on work. However, the danger lies in assuming we know exactly what the client needs without delving into their requirements. 
@@ -22,10 +23,11 @@ Picture this: the client needed a report, but as analysts, we might prematurely 
 [Click to read more ](https://www.linkedin.com/pulse/requirement-gathering-data-analyst-tendai-phikiso-t4d9e%3FtrackingId=Ma80PcrXRfmtbmXN%252FpXXPw%253D%253D/?trackingId=Ma80PcrXRfmtbmXN%2FpXXPw%3D%3D)
 
 
-  
+<br> 
 <br>
 
-###
+<hr style="border:2px solid black">
+<br>
 
 ## 📊 Projects - Data Analytics and visualization 📈
 

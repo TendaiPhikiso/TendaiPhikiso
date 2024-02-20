@@ -31,9 +31,7 @@ Click to view projects
 </summary>
   
 * [Nashville Housing - Data Cleaning](https://github.com/TendaiPhikiso/DataCleaning)
-* [Covid-19 Analysis - Data Exploration](https://github.com/TendaiPhikiso/CovidDataAnalysis)
 </details>
-
 
 
 ### Power BI

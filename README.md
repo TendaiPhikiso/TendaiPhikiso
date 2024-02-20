@@ -5,7 +5,7 @@
 </div>
 
 ###
- <p align="left">✨ Creating bugs since 2018! <br> 🦩 Fun fact: My favourite colour is not pink! <br> 📚 I'm currently enhancing my data analytics skills in Excel (Power Query) <br></p>
+ <p align="left">✨ Creating bugs since 2018! </p>
 
 ###
 
@@ -34,15 +34,7 @@ Click to view projects
 * [Covid-19 Analysis - Data Exploration](https://github.com/TendaiPhikiso/CovidDataAnalysis)
 </details>
 
-### Tableau
 
-<details>
-<summary>
-Click to view projects
-</summary>
-  
-* [Covid-19 - Visualisation](https://github.com/TendaiPhikiso/CovidDataAnalysis)
-</details>
 
 ### Power BI
 

@@ -28,8 +28,7 @@ Picture this: the client needed a report, but as analysts, we might prematurely 
 
 <hr style="border:2px solid black">
 <br>
-
-## 📊 Projects - Data Analytics and visualization 📈
+<h2 align="left">📊 Projects - Data Analytics and visualization 📈</h2>
 
 ### Excel
 

@@ -22,11 +22,8 @@ Picture this: the client needed a report, but as analysts, we might prematurely 
 
 [Click to read more ](https://www.linkedin.com/pulse/requirement-gathering-data-analyst-tendai-phikiso-t4d9e%3FtrackingId=Ma80PcrXRfmtbmXN%252FpXXPw%253D%253D/?trackingId=Ma80PcrXRfmtbmXN%2FpXXPw%3D%3D)
 
-
-<br> 
 <br>
 
-<hr style="border:2px solid black">
 <br>
 <h2 align="left">📊 Projects - Data Analytics and visualization 📈</h2>
 

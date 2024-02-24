@@ -7,7 +7,7 @@
 ###
 
 <p>
-  Hello, I'm Tendai, a computer science graduate with a strong interest in data analytics. I am passionate about identifying business challenges through data and applying analytical techniques to facilitate informed decision-making. My expertise lies in data cleaning using Power Query, conducting thorough data quality assessments, and skillfully transforming raw data to extract actionable insights. I am dedicated to using data analytics tools and methodologies to contribute meaningfully to the decision-making processes within a business. 
+  Hello, I'm Tendai, a Data Analyst. I am passionate about identifying business challenges through data and applying analytical techniques to facilitate informed decision-making. My expertise lies in data cleaning using Power Query, conducting thorough data quality assessments, and skillfully transforming raw data to extract actionable insights. I am dedicated to using data analytics tools and methodologies to contribute meaningfully to the decision-making processes within a business. 
 </p>
 
 ###

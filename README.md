@@ -64,6 +64,28 @@ Click to view projects
 </details>
 
 
+<h2 align="left"> EXPERIENCE </h2>
+
+### Big Data Big Data Institute - University Of Oxford
+
+<details>
+<summary>
+Click to view read
+</summary>
+
+#### Role: Research Assistant - Internship
+  
+Worked closely with Chami Group, a team led by Goylette Chami (MPhil PhD Associate Professor), to conduct in-depth research on Schistosomiasis and its impact in Uganda. The project included assessing the accessibility of health-carefacilities. R programming language was used to transform raw data into 6 insightful visualisations, including geospatial maps highlighting the locations of health centers and drug stores. Applied geospatial data to develop 4 insightful chloropleth maps, showcasing population density and the accessibility of health centers. Presented findings to 8 fellow researchers. Successfully managed tasks and deadlines, actively participated in progress meetings to ensure effective communication and collaboration.
+
+To conduct my analysis I utilised data provided by Chami group & by sourcing data from the Ministry of Health - Republic of Uganda.
+
+• Examined healthcare facility availability for the Ugandan population ,focusing on 3 municipalities: Mayuge, Buliisa,and Pakwach.
+
+• Explored healthcare preferences, uncovering that across surveyed areas, 64% of establishments were drug stores, while 36% were health facilities.
+
+• Wrote a comprehensive report discussing the epidemiology of the disease and quantified findings, contributing to the broader understanding of healthcare dynamics in the region.
+
+</details>
 
 ###
 <h2 align="left">💗TECH STACK DATA ANALYTICS💗</h2>

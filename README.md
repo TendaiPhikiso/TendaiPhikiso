@@ -50,7 +50,6 @@ Click to view projects
 </summary>
   
 * [Movies Dataset](https://github.com/TendaiPhikiso/SQL-Server-Queries)
-* [Nashville Housing - Data Cleaning](https://github.com/TendaiPhikiso/DataCleaning)
 </details>
 
 

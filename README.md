@@ -49,6 +49,7 @@ Click to view projects
 Click to view projects
 </summary>
   
+* [Dannys Diner](https://github.com/TendaiPhikiso/Dannys-Diner-SQL/tree/main)
 * [Movies Dataset](https://github.com/TendaiPhikiso/SQL-Server-Queries)
 </details>
 

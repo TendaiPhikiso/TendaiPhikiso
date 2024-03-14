@@ -23,7 +23,7 @@
 Picture this: the client needed a report, but as analysts, we might prematurely envision a dazzling dashboard. The key to successful project initiation lies in the process of requirement gathering, with a pivotal emphasis on asking the right questions.
 </p>
 
-[Click to read more ](https://www.linkedin.com/pulse/requirement-gathering-data-analyst-tendai-phikiso-t4d9e%3FtrackingId=Ma80PcrXRfmtbmXN%252FpXXPw%253D%253D/?trackingId=Ma80PcrXRfmtbmXN%2FpXXPw%3D%3D)
+[Click to read more ](https://www.linkedin.com/pulse/requirement-gathering-data-analyst-tendai-phikiso-t4d9e/?trackingId=Z3pwrwfsQzm3jHFA7w8mdA%3D%3D)
 
 <br>
 

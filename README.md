@@ -60,8 +60,11 @@ Click to view projects
 <summary>
 Click to view projects
 </summary>
-  
+
+* [Advenure Works](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI)
 * [Data Professional Survey ](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI)
+
+  
 </details>
 
 

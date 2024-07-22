@@ -30,6 +30,17 @@ Picture this: the client needed a report, but as analysts, we might prematurely 
 <br>
 <h2 align="left">📊 Projects - Data Analytics and visualization 📈</h2>
 
+### Python
+
+<details>
+<summary>
+Click to view projects
+</summary>
+  
+* [Scraping Data books on Amazon ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
+
+</details>
+
 ### Excel
 
 <details>
@@ -53,16 +64,6 @@ Click to view projects
 * [Movies Dataset](https://github.com/TendaiPhikiso/SQL-Server-Queries)
 </details>
 
-### Python
-
-<details>
-<summary>
-Click to view projects
-</summary>
-  
-* [Scraping Data books on Amazon ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
-
-</details>
 
 ### Power BI
 

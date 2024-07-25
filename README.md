@@ -38,7 +38,7 @@ Click to view projects
 </summary>
   
 * [Scraping Data books on Amazon - Extraction Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
-* [Scraping Data books on Amazon - Transformation Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
+* [Scraping Data books on Amazon - Transformation Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Transformation)
 
 </details>
 

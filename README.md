@@ -37,8 +37,8 @@ Picture this: the client needed a report, but as analysts, we might prematurely 
 Click to view projects
 </summary>
   
-* [Scraping Data books on Amazon - Extraction Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
-* [Scraping Data books on Amazon - Transformation Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Transformation)
+* [Scraping Data books on Amazon - Extract Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
+* [Scraping Data books on Amazon - Transform Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Transformation)
 
 </details>
 

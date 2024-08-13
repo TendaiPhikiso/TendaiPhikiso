@@ -39,6 +39,7 @@ Click to view projects
   
 * [Scraping Data books on Amazon - Extract Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping)
 * [Scraping Data books on Amazon - Transform Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Transformation)
+* [Scraping Data books on Amazon - Load Phase ](https://github.com/TendaiPhikiso/Amazon_web_scraping_Load_AnalysisPhase)
 
 </details>
 
@@ -61,6 +62,7 @@ Click to view projects
 Click to view projects
 </summary>
   
+* [Scraping Data books on Amazon - Analysis Phase ](https://github.com/TendaiPhikiso/Amazon_web_scraping_Load_AnalysisPhase)
 * [Dannys Diner](https://github.com/TendaiPhikiso/Dannys-Diner-SQL/tree/main)
 * [Movies Dataset](https://github.com/TendaiPhikiso/SQL-Server-Queries)
 </details>

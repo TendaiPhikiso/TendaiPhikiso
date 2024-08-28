@@ -75,6 +75,7 @@ Click to view projects
 Click to view projects
 </summary>
 
+* [Scraping Data books on Amazon - Visualization Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Visualisation/tree/main)
 * [Advenure Works](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI)
 * [Data Professional Survey ](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI)
 

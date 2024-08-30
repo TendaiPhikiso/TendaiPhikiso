@@ -75,8 +75,8 @@ Click to view projects
 Click to view projects
 </summary>
 
-* [Scraping Data books on Amazon - Visualization Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Visualisation/tree/main)
-* [Advenure Works](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI)
+* [Scraping Data books on Amazon - Visualization Phase ](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Visualisation/tree/main)  |  [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWE4Y2U2ZjItNzRkMy00NWNjLTk3MWMtMWUwMjZlZjhhNzliIiwidCI6IjE2MmIyYmIwLWM3ZTEtNGZlZC04NzlkLTk2NTZhMWFjMzMyYiJ9)
+* [Adventure Works](https://github.com/TendaiPhikiso/AdventureWorks-PowerBI)  | [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmQ4NzA5M2EtYWI1Ni00ZmY3LWExOGQtY2RlZWRlMjJkY2E3IiwidCI6IjE2MmIyYmIwLWM3ZTEtNGZlZC04NzlkLTk2NTZhMWFjMzMyYiJ9)
 * [Data Professional Survey ](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI)
 
   

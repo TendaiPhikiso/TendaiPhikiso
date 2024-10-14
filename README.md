@@ -29,7 +29,7 @@ Picture this: the client needed a report, but as analysts, we might prematurely 
 
 <br>
 
-### Extract, Transform, and Load (ETL) Amazon Data Books <a><img align="right" width="500" height="350" src="https://github.com/user-attachments/assets/a9760c9b-617e-4252-b8e4-96815881f175"></a>
+### Extract, Transform, and Load (ETL) Amazon Data Books <a><img align="right" width="450" height="350" src="https://github.com/user-attachments/assets/a9760c9b-617e-4252-b8e4-96815881f175"></a>
 <hr style="border:2px solid black">
 <p>
 ETL stands for Extract, Transform, Load, and it's a process used by organizations to manage their data. In simple terms, ETL helps gather data from various sources (like websites or databases), clean and organize that data to make it suitable for analysis, and then store it in a central location, such as a data warehouse, where it can be analysed to gain valuable insights.

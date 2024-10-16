@@ -41,9 +41,6 @@ This project demonstrates a clear and straightforward ETL process for gathering 
 [Click to read more ](https://www.linkedin.com/pulse/extract-transform-load-etl-amazon-data-books-using-python-phikiso-2gybe/)
 
 <br>
-
-
-<br>
 <h2 align="left">📊 Projects - Data Analytics and visualization 📈</h2>
 
 ### Python
